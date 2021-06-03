@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a seditious libel, called, A declaration from the people of God, called Quakers, &amp;c. Wherein is discovered, that their meetings are seditious conventicles, and that they are not clear from dangerous practises against church and realm.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17142</idno><idno type="EEBO-CITATION">99888287</idno>
+  <idno type="VID">193312</idno>
+  <idno type="EEBO-PROQUEST">2240888658</idno>
+  
+            <idno type="STC">Wing A3349</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.7.a.3[57]</idno>
+            <idno type="STC">ESTC R229276</idno>
+            <idno type="PROQUEST">ocm99888287</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888287e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17142)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193312)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B5:2[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a seditious libel, called, A declaration from the people of God, called Quakers, &amp;c. Wherein is discovered, that their meetings are seditious conventicles, and that they are not clear from dangerous practises against church and realm.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed (with allowance,) anno Dom. 1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quakers --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:193312:1"/>
+            <head>An ANSWER to a Seditious Libel, called, <hi>A Declaration from the people of GOD, called</hi> QUAKERS, <hi>&amp;c.</hi> Wherein is discovered, that their Meetings are Seditious Conventicles, and that they are not clear from Dangerous Practises against Church and Realm.</head>
+            <p>Quakers Declaration. <hi>That the Quakers Meetings are not Seditious Conventicles, and therefore ought not to be supprest.</hi>
+            </p>
+            <p>TO answer this, we shall consider what the Act intends by a <hi>Seditious Conventicle; Where persons above the age of sixteen, shall be present at any Assombly, Meeting, or Conventicle, under colour or pretence of any exercise of Religion, in other man<g ref="char:EOLhyphen"/>ner than according to the Liturgy and practise of the Church of England; at which Meeting there shall be five or more assembled, besides those of the same houshold, shall incur the penalty, &amp;c.</hi> Now that the Quakers do not exercise any part of Divine Worship, according to the Liturgy and practise of the <hi>Church of England,</hi> is easily proved from their own con<g ref="char:EOLhyphen"/>fession, in a seditious Pamphlet published by them about the year 1664. entituled, <hi>The Reasons why the people of God called Quakers, cannot joyn with the Church of England in any part of their worship:</hi> in which Pamphlet they do most blasphemously deride and mock at our worship, and Liturgy of the <hi>Church,</hi> making use of the several Sentences in our daily Confession, for reasons of their Schism and Separation from our Church.</p>
+            <p>Q. D. <hi>Neither have been or are our practises dangerous, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> That your practises have been and are dangerous, I shall easily prove: That they have been dangerous, <hi>Germany</hi> hath well experienced, by the rebellion of <hi>David George,</hi> the first of your Sect, whose Followers had they not been timely supprest, had set the whole Empire in flames; such another was <hi>John of Leiden,</hi> and <hi>Cobs</hi> Faction in <hi>England,</hi> which had not the least share in our late Rebellion. And if you should plead that you are not guilty of the Fact, yet there is Sedition and Rebellion implied in the Doctrine you teach at your Conventicles; you preach against dignities and Titles of Honor, calling them Antichristian, contrary to Scripture commands; your preaching down dignities, implies that you would pull them down too, if it were in your power, as your Brethren before mentioned attempted; for it cannot be supposed that such persons, who believe all persons to be equal, and will allow of no reverence or wor<g ref="char:EOLhyphen"/>ship to any man, but that they will upon any advantage make use of their power to pull down whatsoever contradicts their belief or practise.</p>
+            <p>Q. D. <hi>So the things that belong to Caesar, we give to Caesar.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> 1. To the King belongs obedience, honor and Tribute; if you give to Caesar what belongs to him, you must render him obedience, you must obey his Laws, and those either actively or passively, but you are content with neither; else what means this Pamphlet of yours; but if you say you obey him passively, passive obedience is not always lawful; if you plead your Consciences will not let you obey them actively, but you are willing to obey them passively; you must have a care of a great error, for pas<g ref="char:EOLhyphen"/>sive obedience is onely required, when things contrary to the Word of God are com<g ref="char:EOLhyphen"/>manded; it is not necessary that all things commanded by authority, must have a com<g ref="char:EOLhyphen"/>mand or president in Scripture; for many things are left indifferent to the discretion of Gods Vicegerents, as Kings, and other subordinate Officers; a power is likewise in the Governors of the Church, to impose such things as they shall find necessary to be observed in the publick worship of God; and this we may infer from those words of the Apostle, <hi>The rest will I set in order when I come:</hi> So that whatsoever is command<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by authority if it be not contrary to the word of God, must be obeyed actively, and not passively; for what advantage will it be for you another day, when you shall excuse your non-obedience by saying, you suffered; certainly you can expect no other An<g ref="char:EOLhyphen"/>swer than, <hi>Who hath required these things at your hands? if you suffer for your faults, what thanks have you?</hi>
+            </p>
+            <p n="2">2. To the King belongs Honor; <hi>Honor the King</hi> (saith holy Scripture,) but this you preach against; the best language he can get from you, is <hi>thou</hi> and <hi>thee,</hi> as if he were your fellow. This error of yours proceeds from a mistake of Christs words to his A<g ref="char:EOLhyphen"/>postles. <hi>Call no man Master, for one is your Master, Jesus Christ.</hi> Christ never intended by this doctrine, that his Apostles should give no man his due Title and Honor, but puts them in mind of their dutie to him, who had called them from other Masters and from other Imployments, that they might be diligent in his Service. <hi>Call no man master, i. e.</hi> Serve none else but him who hath called you from a worldly to a spiritual imploy<g ref="char:EOLhyphen"/>ment. The next thing that belongs to Caesar, is <hi>Tribute;</hi> we shall not deny but that you pay <hi>Taxes,</hi> because you are compelled; but if you do it willingly, your obedience in this, will not excuse your disobedience in all things else: <hi>So that all that belongs to Caesar, you do not give to Caesar.</hi>
+            </p>
+            <p>Q. D. <hi>That which belongs to God, we give to God.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Here you likewise fail: What hath been once dedicated to God, and hath been set apart for the maintenance of his Service and Worship, doth belong to God, and therefore must be given to him: Now, to whom God hath assigned this payment, to them it must be paid; but to his Ministers God hath assigned this payment, and hath allowed by his Word, <hi>That they that wait at the Altar, should live of the Altar; and they which preach the Gospel, should live of the Gospel:</hi> So that whosoever refuses to pay Tyths and other maintenance given to the Ministers of the Church of <hi>England,</hi> for their per<g ref="char:EOLhyphen"/>formance of the Service of the Church, and established by the Laws of the land; <hi>doth not give to God the things that belong to God.</hi>
+            </p>
+            <p>Q. D. <hi>His Worship in Spirit and Truth which is his due.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Here you allege that which is but the lesser part of his due, for his whole due; for what advantage is it for the Lord of Hosts to be worshipped and honoured by us, who are as worms in his sight? <hi>Saul</hi> thought himself very zealous for Gods worship, when he saved part of the spoil of the <hi>Amelekites,</hi> that should have been destroyed, to sacrifice it to the Lord; but for this his Kingdom was given from him, and God tells him by his Prophet <hi>Samuel, Obedience is better than sacrifice;</hi> 'Tis Obedience God de<g ref="char:EOLhyphen"/>sires rather than Sacrifice or Worship. God commands you to be obedient to Autho<g ref="char:EOLhyphen"/>rity; and no pretence of Worship, can excuse you from this necessary Duty of Obedi<g ref="char:EOLhyphen"/>ence: So that while you are not obedient, you <hi>neither give God nor Caesar his due.</hi>
+            </p>
+            <p>Q. D. <hi>We do not meet under color or pretence to plot or contrive Insurrections, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> We have but your bare word for it; I have proved that your party hath been guilty of Insurrections, and that the Doctrines you teach at your Meetings, are Sedi<g ref="char:EOLhyphen"/>tious and Heretical, serving as fire to foment and kindle flames of Rebellion, whenso<g ref="char:EOLhyphen"/>ever the least gale of opportunity or advantage, shall blow off those embers that do at present cover them.</p>
+            <p>Q. D. <hi>And were not the Magistrates &amp;c. injoyned by their oaths before, to look after the preservation of the peace against all such seditious Meetings, as much as this Act doth require?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> It is true, the Magistrates were enjoyned by their Oaths before to prevent such seditious Meetings, and we have many Laws against such; but the reason why they were not put in execution, hath been the negligence of inferior Officers, who should have informed and convicted Offenders before those Magistrates. Against this negli<g ref="char:EOLhyphen"/>gence, obstructing the execution of the Laws, the King and Parliament have provided by this Act, inflicting penalties upon the several Officers that shall neglect the per<g ref="char:EOLhyphen"/>formance of their duty.</p>
+            <p>Q. D. <hi>Now if</hi> 4 <hi>besides the family may meet that are seditious spirits, may not many such seditious Meetings do more hurt, than if there were two or three hundred together? for then they might speak out their minds to one another, which they could not do before hundreds of mixt people.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> 'Tis true, there is danger enough in your small Meetings, but much more in your greater Meetings of hundreds; for by lessening your Meetings we may better se<g ref="char:EOLhyphen"/>cure both Church and State. This will be a means to secure our Church, by hindring many silly and ignorant people, that did use to run into your Meetings, partly to behold your antick tricks in your silent Meetings, or else out of curiosity to hear some new Doctrine, which have at last been seduced by you, being taken with that gilded shell of Religion which you there present them with. We shall also better secure our State, by thus lessening your Meetings; for 10 or 12 can make no great disturbance in a place, a Constable may suppress these: But where 5 or 600, or more, shall meet, and finding an opportunity, make an Insurrection, these may set a whole City on flames, before a strength can be got together to suppress them.</p>
+            <p>Q. D. <hi>If this Act had been made in the time of the Jews, would it not have taken hold of Christ and his Apostles?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> No, it would not have taken hold of Christ or his Apostles; For the Liturgy of the <hi>Church of England</hi> is agreable to the Word of God, and according to the practise of Christ and his Apostles: Now none are Offendors by this Act, but such as meet together, and exercise some Religious Worship, contrary, or not agreeing with the Liturgy of the <hi>Church of England.</hi> Christ or his Apostles would never offend a<g ref="char:EOLhyphen"/>gainst their own Doctrine and practise, therefore this Act could not have taken hold of them, but rather have protected them.</p>
+            <p>Q. D. <hi>Are any to be credibly informed against and supprest, but such as are known to be seditious?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> What needs this Querie? You see what the Act has determined to be Sediti<g ref="char:EOLhyphen"/>on; I have already proved you to be guilty of that; and you are known to be such, according to the intent of the Act; and therefore ought to be informed against, and supprest.</p>
+            <p>Q. D. <hi>Whether the Liturgie doth not allow of people to meet together to worship God in spirit and in truth, without limitation of time, place or number?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> It doth; but then it must be according to the form and method there prescri<g ref="char:EOLhyphen"/>bed, <hi>viz.</hi> publick Prayer in places set apart for the publick Worship of God; neither doth it limit the Worship of God in private, there being in the Liturgie prescribed forms as well for private as publick Worship.</p>
+            <p>WE shall now examine your places of Scripture, that you bring to prove your Meetings in Barns, Fields, <hi>&amp;c.</hi> to be lawful.</p>
+            <p>Your first is out of <hi>Malachy, In every place offering shall be offered to my name.</hi> This hath relation to the calling in of the Gentiles; for then Sacrifices and Prayers were offered up to the name of God no where but in <hi>Judea;</hi> but the Prophet prophesying of the coming of Christ, and Conversion of the Gentiles by his Gospel, saith, <hi>In every place offerings shall be offered to my name, i. e.</hi> in every Countrey or Nation, in places dedicated to my name, offering shall be offered to my Name: this <hi>every place</hi> cannot be taken in the large or general sense, for then it must take in hell, where Sacrifices shall never be offered to the Name of God.</p>
+            <p>Q. D. 2. <hi>place of scripture. I will that men pray every where, lifting up holy hands without wrath or doubting.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> The Apostle saith this, to take away doubts of Christians, that by reason of persecution could not be present at the publick places of Gods Worship; who might fear that their Prayers might not be so soon heard, when they were alone, as when the whole Congregation of Christians were mutually joyned together in Prayer. We find <hi>David</hi> thus doubting and bemoaning himself, (when he was forced to flee from <hi>Saul</hi>) that he could not come to the House of God, envying the sparrows and swallows that lodged therein.</p>
+            <p>Q. D. 3. <hi>place. Wheresoever two or three are gathered together in my name, I will be in the midst of them.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> God the Father in the <hi>Old Testament,</hi> claiming a propriety in those places de<g ref="char:EOLhyphen"/>dicated to his Name and Service, calling them His Houses, and promising to hear the Prayers of his People that should be made in those places: And God the Son in the <hi>New Testament,</hi> claiming the same propriety, and severely punishes such as had profaned this his House; it might have raised some doubts in the Disciples, when the Temple and other places of Worship were destroyed, where they should then meet to perform their Worship to God; Christ foreseeing this, and knowing likewise that they should be scattered abroad by reason of Persecution, tells them, <hi>That wheresoever two or three should be gathered together in his name, he would be in the midst of them.</hi>
+            </p>
+            <p>And as it was in the times of the Law, whilst the People was under Persecution and Travelling, God was contented to dwell in Tents and Tabernacles▪ But no sooner was the People peaceably settled in the Land of <hi>Canaan,</hi> but God puts them in mind to build him an House, which might be a fixed Place, where all might come to worship him, and at the Dedication he did miraculously show his acceptance of it: So during the time of the Persecution of the Gospel, Christ was pleased to accept of the Services of his Church in any Place; but when it was peaceably settled, he puts it into their hearts to build him Houses, that should be dedicated and set a part for his peculiar Ser<g ref="char:EOLhyphen"/>vice. And now all persons ought to perform their Publick Worship in these Places, that are by Authority set apart and dedicated for the Service and Worship of God.</p>
+            <p>
+               <hi>Thus have I proved your Meetings to be seditious, according to the intent and meaning of the Act, and therefore ought to be supprest: And that your practises have been, and are dan<g ref="char:EOLhyphen"/>gerous: That the things which belong to Caesar, you do not give to Caesar; nor to God, the things that belong to God: I have likewise proved, That your Doctrine tends to the foment<g ref="char:EOLhyphen"/>ing and stirring up of insurrections and Rebellion: And that there was a necessity for this Act, notwithstanding the former Acts against you, and that for the better security of our Church and Kingdom: I have likewise answered those places of scripture you bring, to prove (though misapplied) your Meetings in Barns, Fields, &amp;c. to be lawful.</hi>
+            </p>
+            <p>As for your <hi>POSTSCRIPT,</hi> I shall take no other notice of it, but onely this, That your Definitions agree very well with your Practises, and that you are guilty of all things contained therein, either in <hi>posse</hi> or <hi>esse,</hi> and therefore ought to be prevented.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed <hi>(With Allowance,) <hi>Anno Dom.</hi>
+               </hi> 1670.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
